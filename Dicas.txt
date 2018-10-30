@@ -1,0 +1,18 @@
+Desafio:
+	Criação da home do spotify (ENTREGA: 30-10-2018 até às 19hrs) 
+  
+Dicas:
+	- Cuidado ao inspecionar o site pois utilizam muitos frameworks
+  - CTRL + C e CTRL + V em códigos dos outros? Não.
+  - salvem todas as imagens em uma pasta inclusive os backgrounds
+  - identação (por favor)
+  - Organizem o CSS e HTML
+  - Chamem os Ninjas
+  - coloque em prática o Pair programming (10 a 15 minutos codados por cada integrante do grupo)
+  - Não esqueçam de deixar a HOME responsiva
+  - Procurem fontes similares, ex: LATO (a do spotify é paga, a menos que vc queira pagar)
+  - esferas de background: https://www.scdn.co/i/home/hero-burst.svg
+  - Gradiente: linear-gradient(#F037A5 -60%, #FAE62D 140%);
+  - para a cor gradiente inspecionem para ajudar nas cores, porém utilize a segunda dica
+  - Na dúvida o Google é seu melhor amigo, após googlar se não conseguir, chamem um ninja
+  
